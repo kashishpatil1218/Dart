@@ -31,12 +31,6 @@ for(int i=0;i<5;i++)
     stdout.write("enter the designation : ");
     employee[i].designation= stdin.readLineSync()!;
 
-    
-
-   
-    
-
-
 
 }
 for(int i=0;i<5;i++)
